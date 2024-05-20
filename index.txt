@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{font-family:sans-serif;
+      text-align:center; height:100%;
+        align-items:center;
+       background:linear-gradient(#E0B4F1,white,#E5C6F1);}
+</style>
+</head>
+<body align="centre">
+<h1 style="text-align:center;"><u>MY SCHOOL</u><h1>
+<img src="school.jpg" alt="school" width="260" height="160">
+<h2>
+My school name is Krishna school</h2>
+<p>It was established in 1987.<br>
+We have many practical labs and a big library.<br>
+Our all teachers and staff is very friendly<br>
+Igniting Young Mnds is our tagline</p>
+<h1>Gallery</h1>
+<img src="school1.jpg" alt="school" width="260" height="160">
+<img src="school2.jpg" alt="school" width="260" height="160">
+<img src="school3.jpg" alt="school" width="260" height="160">
+</body>
+</html>
